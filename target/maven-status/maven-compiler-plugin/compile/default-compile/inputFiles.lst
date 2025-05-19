@@ -1,0 +1,9 @@
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/UrlShortenerApplication.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/configs/OpenApiConfig.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/configs/WebConfig.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/controllers/UrlController.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/models/ShortenUrlRequest.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/models/ShortenUrlResponse.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/models/UrlMapping.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/repositories/UrlMappingRepository.java
+/Users/denizsonbay/Downloads/url-shortener/src/main/java/swe/urlshortener/url_shortener/services/UrlService.java

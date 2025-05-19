@@ -1,0 +1,12 @@
+swe/urlshortener/url_shortener/repositories/UrlMappingRepository.class
+swe/urlshortener/url_shortener/models/UrlMapping.class
+swe/urlshortener/url_shortener/models/UrlMapping$UrlMappingBuilder.class
+swe/urlshortener/url_shortener/configs/WebConfig.class
+swe/urlshortener/url_shortener/configs/OpenApiConfig.class
+swe/urlshortener/url_shortener/controllers/UrlController.class
+swe/urlshortener/url_shortener/models/ShortenUrlRequest$ShortenUrlRequestBuilder.class
+swe/urlshortener/url_shortener/services/UrlService.class
+swe/urlshortener/url_shortener/UrlShortenerApplication.class
+swe/urlshortener/url_shortener/models/ShortenUrlResponse$ShortenUrlResponseBuilder.class
+swe/urlshortener/url_shortener/models/ShortenUrlResponse.class
+swe/urlshortener/url_shortener/models/ShortenUrlRequest.class
